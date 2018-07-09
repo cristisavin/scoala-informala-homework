@@ -1,3 +1,5 @@
 # scoala-informala-homework
 
-Algorithm!
+Savin Cristian Homework.
+
+Algorithms.
