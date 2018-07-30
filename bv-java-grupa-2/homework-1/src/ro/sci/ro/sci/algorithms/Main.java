@@ -1,7 +1,10 @@
 package ro.sci.ro.sci.algorithms;
 
 /**
- * This is the main method. From here you can run all the methods written in other classes.
+ * This is the main method.
+ * From here you can run all the methods written in other classes, in the same package(ro.sci.algorithms)
+ *
+ * @author Cristian S.
  */
 
 public class Main {

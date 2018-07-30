@@ -1,3 +1,11 @@
+/**
+ * This is the main class for the following packages:
+ * 1) calculatemax;
+ * 2) inputdatavalidation;
+ * 3) temperature
+ *
+ * @author Cristian S.
+ */
 package ro.sci;
 
 import java.util.Scanner;

@@ -1,5 +1,6 @@
 package ro.sci.ro.sci.algorithms; /**
  * 3. Display the max digit from a number. Read the number from keyboard
+ *
  * @author Cristian S.
  */
 
@@ -22,14 +23,14 @@ public class ShowMaxDigit {
         while (number > max) {
 
             // r = the last digit from number, after this statement:
-            int r = number%10;
+            int r = number % 10;
 
             // change the max value if r > max:
             if (r > max) {
                 max = r;
             }
             // after this statement, the number will have a digit less:
-            number = number/10;
+            number = number / 10;
         }
         // show max digit from number
         System.out.println("The biggest digit is " + max);

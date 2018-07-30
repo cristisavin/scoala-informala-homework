@@ -1,5 +1,6 @@
 /**
  * this method returns the max number between 2 numbers
+ *
  * @author: Cristian S.
  */
 package ro.sci.calculatemax;
