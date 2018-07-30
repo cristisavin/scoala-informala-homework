@@ -1,11 +1,6 @@
 package ro.sci;
 
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.Scanner;
-import java.util.SimpleTimeZone;
-import java.util.Timer;
 
 import static ro.sci.calculatemax.GetMaxNumber.getMax;
 import static ro.sci.inputdatavalidation.Time.time;
