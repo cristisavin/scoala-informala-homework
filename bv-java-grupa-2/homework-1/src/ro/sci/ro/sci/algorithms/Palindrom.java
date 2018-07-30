@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 4. Check if a number is palindrom( e.g palindrom 1221, 34143)
  * @author Cristian S.
  */

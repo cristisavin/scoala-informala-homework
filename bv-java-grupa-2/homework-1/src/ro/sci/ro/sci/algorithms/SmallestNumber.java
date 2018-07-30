@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 2. Display the smallest number from a collections of number
  * @author Cristian S.
  */

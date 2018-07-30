@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 7. Input the length of the side of a square, and display its area.
  * 	Produce an error message if the length is negative
  *

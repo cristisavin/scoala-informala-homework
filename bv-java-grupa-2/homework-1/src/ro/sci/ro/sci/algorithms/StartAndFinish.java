@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 9. Input 2 values:  start  and  finish, then display the numbers from start to finish
  *
  * @author Cristian S.

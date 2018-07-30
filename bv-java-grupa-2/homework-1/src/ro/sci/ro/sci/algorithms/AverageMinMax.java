@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  *  11. Write pseudo code that will perform the following.
  *   a) Read in 5 separate numbers.
  *   b) Calculate the average of the five numbers.

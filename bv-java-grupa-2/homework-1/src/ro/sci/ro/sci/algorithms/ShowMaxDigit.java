@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 3. Display the max digit from a number. Read the number from keyboard
  * @author Cristian S.
  */

@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 6. Input the dimensions of a rectangle and display area and perimeter
  * @author Cristian S.
  */

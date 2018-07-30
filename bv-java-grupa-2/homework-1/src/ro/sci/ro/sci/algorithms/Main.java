@@ -1,3 +1,5 @@
+package ro.sci.ro.sci.algorithms;
+
 /**
  * This is the main method. From here you can run all the methods written in other classes.
  */

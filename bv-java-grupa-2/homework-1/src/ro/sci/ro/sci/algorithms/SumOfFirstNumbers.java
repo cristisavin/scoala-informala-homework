@@ -1,3 +1,5 @@
+package ro.sci.ro.sci.algorithms;
+
 /**
  *  1. Calculate the sum of the first 100 numbers higher than 0
  * @author Cristian S.

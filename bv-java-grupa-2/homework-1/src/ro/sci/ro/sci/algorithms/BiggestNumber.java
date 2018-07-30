@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 8. Input 3 numbers, and display the biggest.
  *
  * @author Cristian S.

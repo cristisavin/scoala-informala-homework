@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 5. Display all the prime numbers lower than a given number
  * @author Cristian S.
  */

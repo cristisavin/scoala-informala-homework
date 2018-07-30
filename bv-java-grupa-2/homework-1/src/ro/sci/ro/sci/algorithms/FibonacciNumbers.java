@@ -1,4 +1,4 @@
-/**
+package ro.sci.ro.sci.algorithms; /**
  * 10. Read number n and print the first n numbers in Fibonacci sequence.
  *   The Fibonacci sequence (1,1,2,3,5,8,13,�) begins with two 1�s,
  *   and each successive numbers is the sum of the preceding two numbers
